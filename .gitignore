@@ -1,0 +1,14 @@
+# Ignore Python and Django files
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Ignore virtual environment
+env/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
