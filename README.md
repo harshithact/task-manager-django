@@ -12,3 +12,4 @@ A simple Task Manager web application built with Django.
 ## Setup Instructions
 
 1. Clone the repository:
+git clone https://github.com/harshithact/task-manager-django.git
